@@ -1,9 +1,5 @@
 SpeechRecognitionView
 ======================
-
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SpeechRecognitionView-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3518)
-[![Release](https://jitpack.io/v/zagum/SpeechRecognitionView.svg)](https://jitpack.io/#zagum/SpeechRecognitionView)
-
 "Google Now" style animation for [Speech Recognizer][1].
 
 ![image](https://raw.githubusercontent.com/zagum/SpeechRecognitionView/master/art/speechrecognitionview.gif)
